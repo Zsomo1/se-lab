@@ -48,7 +48,7 @@ public class TorpedoStore {
       this.torpedoCount -= numberOfTorpedos;
       success = true;
     } else {
-      // simulated failure
+      // simulated failure!
       success = false;
     }
 
